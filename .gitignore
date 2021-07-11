@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # 画像は不要
-.img/*
+img/*
